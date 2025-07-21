@@ -34,7 +34,7 @@ This is a fully responsive and modern **Landing Page** built using **HTML, CSS, 
 ---
 
 ### 📸 Preview
-
+https://badalsingh1802.github.io/Landing-Page/
  
 
 ---
